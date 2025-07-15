@@ -29,7 +29,6 @@ const developer = {
 - Next.js
 - React Native
 - Expo
-- Redux | Redux Toolkit
 - Node.js
 - Express.js
 
