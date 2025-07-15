@@ -1,19 +1,18 @@
-# Hey there, I'm Ahmed Abdelsamea (BNA) 👋
+# Hey there, It's BNA 👋
 
-**Frontend Developer | React & React Native Specialist | 3+ Years Building Scalable Web & Mobile Applications**
+**FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
 
 ```javascript
 const developer = {
   name: 'Ahmed Abdelsamea',
   alias: 'BNA',
   location: 'Giza, Egypt',
-  experience: '3+ years',
-  specialization: ['React.js', 'React Native', 'Next.js'],
+  experience: '4+ years',
+  specialization: ['React.js', 'React Native', 'Next.js', 'Expo'],
   passion: 'Building scalable applications that solve real problems',
   contact: {
     email: 'hi@ahmedbna.com',
-    website: 'ahmedbna.com',
-    phone: '+201558800195'
+    website: 'ui.ahmedbna.com',
   }
 }
 ```
@@ -28,11 +27,11 @@ const developer = {
 - TypeScript
 - React.js
 - Next.js
+- React Native
+- Expo
 - Redux | Redux Toolkit
-- Formik
 - Node.js
 - Express.js
-- NoSQL
 
 
 ---
