@@ -1,13 +1,22 @@
-## Yo, It's _BNA_ 👋
+# Hey there, I'm Ahmed Abdelsamea (BNA) 👋
 
-A self taught **JavaScript** developer committed to lifelong learning with excellent communication skills from Giza, Egypt.
+**Frontend Developer | React & React Native Specialist | 3+ Years Building Scalable Web & Mobile Applications**
 
 ```javascript
-const name = 'BNA'
-const fullName = 'Ahmed Abdelsamea'
-let location = 'Giza, Egypt'
+const developer = {
+  name: 'Ahmed Abdelsamea',
+  alias: 'BNA',
+  location: 'Giza, Egypt',
+  experience: '3+ years',
+  specialization: ['React.js', 'React Native', 'Next.js'],
+  passion: 'Building scalable applications that solve real problems',
+  contact: {
+    email: 'hi@ahmedbna.com',
+    website: 'ahmedbna.com',
+    phone: '+201558800195'
+  }
+}
 ```
----
 
 ### Skills :rocket:
 
