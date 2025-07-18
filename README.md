@@ -30,8 +30,6 @@ const developer = {
 - React Native
 - Expo
 - Node.js
-- Express.js
-
 
 ---
 
