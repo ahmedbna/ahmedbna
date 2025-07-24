@@ -8,7 +8,7 @@ const developer = {
   alias: 'BNA',
   location: 'Giza, Egypt',
   experience: '4+ years',
-  specialization: ['React.js', 'React Native', 'Next.js', 'Expo'],
+  specialization: ['React', 'React Native', 'Next.js', 'Expo'],
   passion: 'Building scalable applications that solve real problems',
   contact: {
     email: 'hi@ahmedbna.com',
