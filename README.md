@@ -1,4 +1,4 @@
-<img width="100%" align="right" alt="Github" src="[[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg]()](https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.WEBP)" />
+<img width="100%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.WEBP" />
 
 # Yo, It's BNA 👋
 
