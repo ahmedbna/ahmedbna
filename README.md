@@ -3,6 +3,7 @@
 <div align="center">
   <img width="100%" alt="Github" src="https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.jpeg" />
   <br/>
+  <br/>
 </div>
 
 **FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
