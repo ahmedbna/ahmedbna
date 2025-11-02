@@ -1,4 +1,6 @@
-# Hey there, It's BNA 👋
+<img width="100%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.WEBP)" />
+
+# Yo, It's BNA 👋
 
 **FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
 
@@ -9,7 +11,6 @@ const developer = {
   location: 'Giza, Egypt',
   experience: '4+ years',
   specialization: ['React', 'React Native', 'Next.js', 'Expo'],
-  passion: 'Building scalable applications that solve real problems',
   contact: {
     email: 'hi@ahmedbna.com',
     website: 'ui.ahmedbna.com',
