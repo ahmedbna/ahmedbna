@@ -1,6 +1,6 @@
-<img width="100%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.WEBP" />
-
 # Yo, It's BNA 👋
+
+<img width="100%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.jpegP" />
 
 **FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
 
