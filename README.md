@@ -2,7 +2,7 @@
 
 <img width="100%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/ahmedbna/bna-ui-demo/IMG_6807.jpeg" />
 
-
+---
 
 **FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
 
