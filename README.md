@@ -6,7 +6,7 @@
   <br/>
 </div>
 
-**FullStack Developer | React & React Native Specialist | 4+ Years Building Scalable Web & Mobile Applications**
+**Civil Engineer | FullStack React, Next.js, React Native, Expo Developer Building Scalable Web & Mobile Applications**
 
 ```javascript
 const developer = {
