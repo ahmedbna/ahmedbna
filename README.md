@@ -16,7 +16,7 @@ const developer = {
   experience: '5+ years',
   specialization: ['React', 'React Native', 'Next.js', 'Expo'],
   contact: {
-    email: 'hi@ahmedbna.com',
+    email: 'ahmdabdelsamea@gmail.com',
     website: 'ui.ahmedbna.com',
   }
 }
