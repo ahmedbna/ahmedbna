@@ -13,7 +13,7 @@ const developer = {
   name: 'Ahmed Abdelsamea',
   alias: 'BNA',
   location: 'Giza, Egypt',
-  experience: '5+ years',
+  experience: '6+ years',
   specialization: ['React', 'React Native', 'Next.js', 'Expo'],
   contact: {
     email: 'ahmdabdelsamea@gmail.com',
