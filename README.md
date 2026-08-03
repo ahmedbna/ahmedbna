@@ -1,7 +1,7 @@
 # Yo, It's BNA 👋
 
 <div align="center">
-  <img width="100%" alt="Github" src="https://ui.ahmedbna.com/0401-samurai-wide.jpeg" />
+  <img width="100%" alt="Github" src="https://demo.ahmedbna.com/0401-samurai-wide.jpeg" />
   <br/>
   <br/>
 </div>
